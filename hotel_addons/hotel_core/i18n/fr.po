@@ -1,0 +1,3 @@
+
+msgid "My Model"
+msgstr "Mon Modèle"

@@ -1,0 +1,12 @@
+
+<odoo>
+    <report
+        id="my_model_report"
+        model="my.model"
+        string="My Model Report"
+        report_type="qweb-pdf"
+        name="my_module_template.report_my_model"
+        file="my_module_template.report_my_model"
+        attachment_use="False"
+    />
+</odoo>

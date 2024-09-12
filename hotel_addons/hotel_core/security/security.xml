@@ -1,0 +1,6 @@
+
+<odoo>
+    <record id="group_my_model_user" model="res.groups">
+        <field name="name">My Model User</field>
+    </record>
+</odoo>

@@ -1,0 +1,7 @@
+
+<odoo>
+    <record id="my_model_demo_1" model="my.model">
+        <field name="name">Demo Data</field>
+        <field name="description">This is some demo data</field>
+    </record>
+</odoo>
